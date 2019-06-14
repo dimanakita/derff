@@ -1,0 +1,20 @@
+{
+    "name": "2rd-abctv/battlebots-season-4-episode-2-full-tv",
+    "description": "Watch BattleBots Season 4 Episode 2 Online for Free Putlocker S04E02 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["BattleBots Season 4 Episode 2 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/wVl5pi8XG4",
+            "homepage": "https://t.co/wVl5pi8XG4",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
